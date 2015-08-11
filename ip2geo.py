@@ -72,7 +72,7 @@ def main() :
     
     ### Version disclaimer
     print ("\n%s" % ("*" * 36))
-    print ("* ip2geo.py v%s by Miguel Aguilar *\n\r%s" % ((version), ("*" * 36)))
+    print ("* ip2geo.py by Miguel Aguilar *\n\r%s" % (("*" * 36)))
     
     ### Print the GeoInfo to screen
     printGeoInfo(geoInfo)
